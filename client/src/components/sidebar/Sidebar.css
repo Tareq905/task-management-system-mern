@@ -1,0 +1,10 @@
+.sidebar {
+  background-color: rgb(35, 127, 202);
+  color: white;
+  height: 100vh;
+  padding: 1rem;
+  max-width: 15vw;
+}
+.sidebar .list-item {
+  margin: 1rem 0;
+}
