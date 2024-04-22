@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Task Management System</title>
-</head>
-
-<body>
 
     <h1>Task Management System</h1>
 
@@ -70,6 +60,3 @@
     <h2>Contact</h2>
     <p>For any inquiries or feedback, please contact <a href="mailto:your_email@example.com">Your Name</a>.</p>
 
-</body>
-
-</html>
